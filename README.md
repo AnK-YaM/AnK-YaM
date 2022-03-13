@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnK-YaM
+- 👋 Hi, I’m Isaac
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning laravel and angular
 - 💞️ I’m looking to collaborate on ...
